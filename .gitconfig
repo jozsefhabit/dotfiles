@@ -1,0 +1,12 @@
+[user]
+	name = Jozsef Habit
+	email = jozsef.habit@sanomamedia.hu
+[alias]
+	co = checkout
+	st = status
+	br = branch
+	cm = commit
+	pl = pull
+	ps = push
+[color]
+        ui = true
